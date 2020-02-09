@@ -16,4 +16,7 @@ An application that can be used to write, save, and delete notes.
 * Clone the repository
 * Execute the following command: npm install​​
 * Execute the following command: node server.js
+
+## Deployed App on Heroku
+[Note Taker](https://obscure-falls-00412.herokuapp.com/)
 ​
