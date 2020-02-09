@@ -1,15 +1,25 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application that can be used to write, save, and delete notes.",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Lisa Walter",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "mysql": "^2.16.0"
-  }
+    "mysql": "^2.16.0",
+    "uuid": "^3.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epw1389/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/epw1389/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/epw1389/Note-Taker#readme"
 }
